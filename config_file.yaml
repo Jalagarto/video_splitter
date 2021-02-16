@@ -1,0 +1,13 @@
+
+# split video when is too big :
+video_filename: /home/javier/Downloads/usb_movies/Toy.Story.4.mkv
+
+### Select only one of the next 3 options
+# split_by_seconds: 3600  # (set in 5 minutes by default: 300 secs)  
+# number_of_chunks: 5
+bytes: 3700000000  # 3.7 Gb   approx.
+
+
+######## Remember to install ffmpeg
+# sudo apt install ffmpeg
+
