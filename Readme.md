@@ -1,3 +1,3 @@
-[Based on](https://github.com/c0decracker/video-splitter)
+[Based on c0decracker/video-splitter repository](https://github.com/c0decracker/video-splitter)
 
-see all options here. It is a very good tool, that a llows a lot of flexibility
+see all options there. It is a very good tool that a llows a lot of flexibility
